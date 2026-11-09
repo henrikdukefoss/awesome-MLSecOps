@@ -223,6 +223,7 @@ Commercial MLSecOps and AI security tools support model protection, application 
 | [NeuralTrust](https://neuraltrust.ai) | Tools to protect, secure and test GenAI Applications |
 | [SourceryKit](https://github.com/ProvablyAI/sourcerykit) | Verifies an AI agent's outbound requests and MCP handoffs against a source of truth using zero-knowledge proofs, so a call only goes out if its claims check out; hooks the HTTP libraries, logs each outbound call, and blocks endpoints not on the trusted allow-list |
 | [Speakeasy](https://www.speakeasy.com/product/ai-control-plane) | AI control plane for managing agent access to MCPs, Skills, and Assistants with role-scoped permissions, policy enforcement, threat detection, and event logging |
+| [Standard Compute](https://standardcompute.com/security) | Hosted LLM gateway that enforces provider allow-lists, a Europe region rule and a zero-data-retention requirement per company, team or key on every attempt and fallback, refusing a request before the prompt is sent when no approved endpoint qualifies |
 | [Trent AI](https://trent.ai) | Agentic AI security platform that continuously assesses AI agents, MCP servers, LLM and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed |
 
 
